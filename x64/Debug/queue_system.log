@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\queue_system\queue_system\header_files\Menu_Options.h(121,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+  queue_system.vcxproj -> D:\queue_system\queue_system\x64\Debug\queue_system.exe

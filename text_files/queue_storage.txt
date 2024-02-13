@@ -1,0 +1,15 @@
+01267978152,Business_Banking,1,0
+01146702320,Business_Banking,1,0
+01523920681,Business_Banking,1,0
+01095567898,Business_Banking,1,0
+01066348144,Digital_Banking,0,1
+01553300933,Individual_Banking,0,2
+01122426613,Digital_Banking,0,3
+01274046621,Loans,0,4
+01574487203,Digital_Banking,0,5
+01081611831,Individual_Banking,0,6
+01517244948,Loans,0,7
+01145055785,Individual_Banking,0,8
+01270461359,Digital_Banking,0,9
+01076056306,Loans,0,10
+01132252270,Individual_Banking,0,11

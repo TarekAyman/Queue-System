@@ -1,0 +1,4 @@
+C:\Users\Barsoum Adly\visual studio projects\queue_system\queue_system\x64\Debug\queue_system.exe
+C:\Users\Barsoum Adly\Downloads\queue_system\queue_system\x64\Debug\queue_system.exe
+G:\queue_system\queue_system\x64\Debug\queue_system.exe
+D:\queue_system\queue_system\x64\Debug\queue_system.exe
